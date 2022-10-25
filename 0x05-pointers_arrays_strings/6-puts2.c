@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
 *puts2 - print one character out pf two
 * @s: input
