@@ -1,9 +1,9 @@
-#include "stdio.h"
+#include "main.h"
 
 /**
 * _strcat - joins two strings with n bytes
 * @dest: copy to
-* src: copy from
+* @src: copy from
 * @n: number of char to be copied
 * Return: dest
 */
